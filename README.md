@@ -5,11 +5,11 @@ Root image matching using opencv
 
 ## Ransac
 
-$${\color{red}Red}$$
+
 
 - RANSAC (Random Sample Consensus) is an iterative algorithm used for model fitting in the presence of outliers.
 
-- **Objective**: RANSAC is designed to robustly estimate parameters of a mathematical model from a set of observed data points, even when a significant portion of the data is contaminated by outliers.
+- $${\color{red}Objective}$$: RANSAC is designed to robustly estimate parameters of a mathematical model from a set of observed data points, even when a significant portion of the data is contaminated by outliers.
 
 - Iterations: The algorithm operates through a series of iterations. In each iteration:
 
