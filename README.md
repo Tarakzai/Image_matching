@@ -1,10 +1,10 @@
 # Image_matching
 
-``` diff
-- Description
-...
 
-Root image matching using opencv
+## Description
+
+Root image matching using opencv. The aim was to visualize the effect of different chemicals on roots by analyzing the root images over a certain period of time
+and comparing the root images to see the deterioration or generation of new roots.
 
 ## Ransac
 
@@ -30,3 +30,11 @@ Root image matching using opencv
 - Termination Condition: The algorithm terminates when a sufficiently good model is found, or after a predetermined number of iterations.
 
 - Trade-off: RANSAC trades computational cost for accuracy. By working with a subset of data points, it is less sensitive to outliers compared to methods that consider the entire dataset.
+
+
+## Visualizing same root images over different time periods
+
+![1d5a616d-3f2b-4481-a717-9e8b687abe70](https://github.com/Tarakzai/Image_matching/assets/80420558/6627881a-c1aa-45c2-b911-36070d5bbd1b)
+
+![eb7912e9-bb90-405d-9363-544752b812ee](https://github.com/Tarakzai/Image_matching/assets/80420558/c4a406d6-f392-422b-a99f-6de967be1744)
+
