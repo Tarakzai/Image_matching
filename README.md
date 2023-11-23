@@ -5,6 +5,12 @@ Root image matching using opencv
 
 ## Ransac
 
+```diff
++ Green
+- Red
+! Orange
+@@ Pink @@
+# Gray
 
 
 - RANSAC (Random Sample Consensus) is an iterative algorithm used for model fitting in the presence of outliers.
@@ -26,3 +32,4 @@ Root image matching using opencv
 - Termination Condition: The algorithm terminates when a sufficiently good model is found, or after a predetermined number of iterations.
 
 - Trade-off: RANSAC trades computational cost for accuracy. By working with a subset of data points, it is less sensitive to outliers compared to methods that consider the entire dataset.
+...
