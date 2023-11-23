@@ -1,8 +1,9 @@
 # Image_matching
 
 ``` diff
-- ## Description
+- Description
 ...
+
 Root image matching using opencv
 
 ## Ransac
